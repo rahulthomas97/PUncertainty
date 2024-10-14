@@ -1,2 +1,2 @@
-# PUncertainty
-PUncertainty(Planning under Uncertainty) is a sandbox project for robot mapping and localization
+# VO Sandbox
+Sandbox project to play with Visual Odometry techniques for robots
